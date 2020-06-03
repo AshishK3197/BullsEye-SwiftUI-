@@ -1,6 +1,10 @@
 # BullsEye-(SwiftUI)
 
-A Simple game built in SwiftUI.
+## A Simple fun to play game built in SwiftUI.
+
+Developed a gaming application where users will get a random number generated every time the app starts, and the respective user will have to move the slider pointing that number as the target.
+
+Whenever the user gets a successful target hit, the user will be rewarded with bonus points and the app also tells if the user was close or far away from the target and by how much.
 
 | **Gif**  | 
 | ------------- | 
